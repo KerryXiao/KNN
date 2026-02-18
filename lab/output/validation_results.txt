@@ -1,0 +1,11 @@
+k=1, accuracy=0.9704
+k=3, accuracy=0.9718
+k=5, accuracy=0.9690
+k=7, accuracy=0.9687
+k=9, accuracy=0.9670
+k=11, accuracy=0.9656
+k=13, accuracy=0.9642
+k=15, accuracy=0.9633
+k=17, accuracy=0.9617
+k=19, accuracy=0.9597
+k=21, accuracy=0.9592
